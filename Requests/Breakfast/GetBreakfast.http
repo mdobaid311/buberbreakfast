@@ -1,0 +1,2 @@
+GET  http://localhost:5004/breakfast/afff8db4-c552-4689-82ee-e7e043639a24
+Content-Type: application/json
